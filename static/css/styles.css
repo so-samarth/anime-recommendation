@@ -1,8 +1,6 @@
 body {
-  background-image: url('aot.jpg');
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-size: cover;
+    background-color: #d1f4f3;
+    text-align: center;
 }
 
 .navbar {
