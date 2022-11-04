@@ -1,6 +1,6 @@
 # anime-recommendation
 
-Hello weebs!
+Hello there weebs!
 
 This is an app specifically made for you, it will help you select the next anime you should be watching. All it needs is the name of your favourite anime. 
 
