@@ -1,6 +1,8 @@
 body {
-    background-color: #faff90;
-    text-align: center;
+  background-image: url('aot.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
 }
 
 .navbar {
@@ -15,10 +17,3 @@ a {
 a:hover {
     color: #f0f0f0;
   }
-
-body {
-  background-image: ('aot.jpg');
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-size: cover;
-}
