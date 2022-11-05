@@ -1,7 +1,7 @@
 body {
     background-image: url('background.jpg');
     
-    background-size: 250vh 175vh;
+    background-size: 250vh 185vh;
     background-position: center center;
     margin: 0;
     padding: 0;
@@ -20,7 +20,7 @@ a {
 
 a:hover {
     color: #f0f0f0;
-    size: 100vh 100vh;
+    size: 50vh 50vh;
   }
 
 h3 {
