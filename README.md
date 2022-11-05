@@ -2,7 +2,7 @@
 
 Hello there Weebs!
 
-This is an app specifically made for you, it will help you select the next anime you should be watching. All it needs is the name of your favourite anime. 
+This is an app made especially for you, to help you select the next anime that you should be watching. All it needs is the name of your favourite anime. 
 
 The app is deployed on Heroku. Here's the link https://recommend-me-animes.herokuapp.com
 
