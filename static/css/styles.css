@@ -2,6 +2,9 @@ body {
     background-image: url('https://images.hdqwalls.com/wallpapers/attack-on-titan-beach-4k-dg.jpg');
     background-repeat: no-repeat;
     background-size: cover;
+    background-position: center;
+    width: 100vh;
+    height: 100vh;
     background-color: #dffdfd;
     text-align: center;
 }
