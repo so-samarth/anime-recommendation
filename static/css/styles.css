@@ -1,5 +1,5 @@
 body {
-    background-image: url('aot.jpg');
+    background-image: url('background.jpg');
     background-repeat: no-repeat;
     background-size: 280vh 200vh;
     background-position: center center;
@@ -10,7 +10,7 @@ body {
 }
 
 .navbar {
-    background-color: #162130;
+    background-color: #061919;
     text-align: center;
 }
 
@@ -36,4 +36,9 @@ h5 {
 
 p {
     color: #f1f9f9;
+}
+
+form {
+    color: #f1f7ff;
+    size: 100vh 100vh;
 }
